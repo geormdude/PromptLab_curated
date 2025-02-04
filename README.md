@@ -62,4 +62,4 @@ Guidelines for contribution coming soon. Focus areas:
 
 ## License
 
-[MIT License](LICENSE)
+[Apache 2.0 License](LICENSE)
